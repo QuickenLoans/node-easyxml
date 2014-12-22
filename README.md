@@ -1,5 +1,3 @@
 ## Easy XML
 
-This is an old repo and we are working on getting it removed.
-
-Please use: [tlhunter/node-easyxml](https://github.com/tlhunter/node-easyxml) instead.
+Please see: [tlhunter/node-easyxml](https://github.com/tlhunter/node-easyxml) for the most up to date version.
